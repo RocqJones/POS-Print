@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">POS Print</string>
+    <string name="print_images">Print Images</string>
+    <string name="print_hello_world">Print Hello world</string>
+    <string name="pair_unpair">Pair/Unpair</string>
+    <string name="print">Print</string>
+    <string name="write_something_here">Write something here</string>
 </resources>
